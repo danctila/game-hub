@@ -10,7 +10,7 @@ function App() {
         base: `"nav" "main"`, //mobile formatting
         lg: `"nav nav" "aside main"`, //larger than 1024px
       }}
-      templateColums={{
+      templateColumns={{
         base: "1fr",
         lg: "200px 1fr",
       }}
